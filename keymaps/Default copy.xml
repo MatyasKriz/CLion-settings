@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -17,9 +20,11 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="SafeDelete" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="UsageView.Remove" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
