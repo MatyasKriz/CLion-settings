@@ -2,6 +2,7 @@
   <Objective-C>
     <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="4" />
     <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
+    <option name="SPACE_BEFORE_INIT_LIST_COLON" value="false" />
     <option name="ADD_BRIEF_TAG" value="true" />
   </Objective-C>
   <Objective-C-extensions>
